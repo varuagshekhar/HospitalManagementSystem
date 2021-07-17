@@ -18,7 +18,7 @@ Following are the modules involved in the project:
    -	Fire Doctor (By accessing them with ID)
    -	View Doctors Detail
 3) Patient's Module
-   -	Admit Patient (Patient ID, Name, Disease, Admit Date and Admit Time)
+   -	Admit Patient (Patient ID, Patient Name, Disease, Admit Date and Admit Time)
    -	Edit Patient Details (Name, Disease, Admit Date and Time)
    -	Discharge Patient (By accessing ID)
    -	View Patient Records

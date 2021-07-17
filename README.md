@@ -1,4 +1,4 @@
-# Hospital Mangaement System
+# Hospital Management System
 
 ### Introduction
 Hospital Management System is widely used to manage the hospitals all overall the world.\

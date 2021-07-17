@@ -12,15 +12,15 @@ Backend Database – MySQL
 ### Modules
 Following are the modules involved in the project:
 1) Login Page
-2) Doctors Module
-   -  Add Doctors (Doctor ID, Doctor Name, Doctor Specialization)
-   -	Edit Doctors Details (Name and Specialization)
+2) Doctor's Module
+   -  Add Doctor (Doctor ID, Doctor Name, Doctor Specialization)
+   -	Edit Details of Doctor (Name and Specialization)
    -	Fire Doctor (By accessing them with ID)
-   -	View Doctors Detail
+   -	View Details of Doctors
 3) Patient's Module
    -	Admit Patient (Patient ID, Patient Name, Disease, Admit Date and Admit Time)
-   -	Edit Patient Details (Name, Disease, Admit Date and Time)
+   -	Edit Details of Patient (Name, Disease, Admit Date and Time)
    -	Discharge Patient (By accessing ID)
-   -	View Patient Records
+   -	View Records of Patient
 
 

@@ -1,7 +1,7 @@
 # Hospital Management System
 
 ### Introduction
-Hospital Management System is widely used to manage the hospitals all overall the world.\
+Hospital Management System is widely used to manage hospitals all overall the world.\
 This desktop application is made with the help of JAVA Swing and uses MySQL to store data.
 
 ### Technology Stack Used

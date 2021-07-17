@@ -5,7 +5,7 @@ Hospital Management System is widely used to manage hospitals all overall the wo
 This desktop application is made with the help of JAVA Swing and uses MySQL to store data.
 
 ### Technology Stack Used
-High level Language – JAVA\
+High Level Language – JAVA\
 Graphical User Interface (GUI) – JAVA SWING\
 Backend Database – MySQL
 
